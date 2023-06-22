@@ -1,0 +1,9 @@
+.gradient-background {
+    background: linear-gradient(300deg, #A0C49D, #C4D7B2, #E1ECC8, #F7FFE5);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+  .nav-pills .nav-link.active {
+      background-color: forestgreen !important;
+  }
