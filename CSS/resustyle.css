@@ -6,8 +6,13 @@
 
   .nav-pills .nav-link.active {
       background-color: forestgreen !important;
+      
   }
 
-  p, ul, li {
+  .nav-item {
+    font-family: 'Kantumruy Pro', 'sans-serif';
+  }
+
+  p, .col-9, li {
     font-family: 'Tinos', serif;
   }
