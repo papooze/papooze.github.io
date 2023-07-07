@@ -8,7 +8,9 @@
       background-color: forestgreen !important;
   }
 
-
-  p, h1, .nav-item {
+  .nav-pills a {
+    color: forestgreen;
+  }
+  p, h1, li {
     font-family: 'Kantumruy Pro', 'serif';
   }

@@ -9,10 +9,14 @@
       
   }
 
+  .nav-pills a {
+    color: forestgreen;
+    
+  }
   .nav-item {
     font-family: 'Kantumruy Pro', 'sans-serif';
   }
 
-  p, .col-9, li {
+  p, .col-11 {
     font-family: 'Tinos', serif;
   }
